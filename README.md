@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yannickBona
+- 👀 I’m interested in back-end & front-end development, blockchain and personal finance.
+- 🌱 I’m currently studiyng to become a full stack developer.
+- 💞️ I’m looking to collaborate on any interesting projects that provide value and growth.
+- 📫 Reach me at yannick.bonavoglia13@gmail.com
