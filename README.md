@@ -12,5 +12,5 @@ Hi there!<br><br>I'm an Italian 21 years old full-stack developer in love with c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yannickBona&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yannickBona&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✉️ Email
+### 📞 Contacts
 Please direct any inquiries to _yannick.bonavoglia13@gmail.com_
