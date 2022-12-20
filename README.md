@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 About Me:
-Hi there!<br><br>I'm an Italian 21 years old full-stack developer in love with coding, finance, fitness, travel and the web3 space.<br><br>Have fun looking through my repositories! <br><br>
+Hi there!<br><br>I'm an Italian 21 years old full-stack developer in love with coding, finance, fitness, travel and the web3 space.<br><br>I currently work for an innovative Web3 startup in Milan, Italy.<br><br>Have fun looking through my repositories! <br><br>
 
 
 ## 🌐 Socials:
