@@ -11,7 +11,7 @@ Hi there!<br><br>I'm an Italian 21 years old full-stack developer in love with c
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yannickBona&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 # 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=yannickBona&margin-w=15&margin-h=15&theme=dark&title=commits,repositories,pullRequests)
+![](https://github-profile-trophy.vercel.app/?username=yannickBona&margin-w=15&margin-h=15&theme=dark)
 
 ### 📞 Contacts 
 Please direct any inquiries to _yannick.bonavoglia13@gmail.com_
