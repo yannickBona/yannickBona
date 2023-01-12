@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&width=435&lines=Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
 
 # 🧑🏻‍💻 About Me:
 Hi there!<br><br>I'm an Italian 21 years old full-stack developer in love with coding, finance, fitness, travel and the web3 space.<br><br>I currently work for an innovative Web3 startup in Milan, Italy.<br><br>Have fun looking through my repositories! <br><br>
@@ -12,9 +12,6 @@ Hi there!<br><br>I'm an Italian 21 years old full-stack developer in love with c
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yannickBona&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 # 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yannickBona&margin-w=15&margin-h=15&theme=onedark&title=Commits,Repositories,PullRequest)
 
