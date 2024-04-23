@@ -16,4 +16,4 @@ Hi there!<br><br>I'm an Italian 23 years old full-stack developer in love with c
 ![](https://github-profile-trophy.vercel.app/?username=yannickBona&margin-w=15&margin-h=15&theme=onedark&title=Commits,Repositories,PullRequest)
 
 ### 📞 Contacts 
-Please direct any inquiries to _yannick.bonavoglia13@gmail.com_
+_yannick.bonavoglia13@gmail.com_
