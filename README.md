@@ -12,6 +12,3 @@ Hi there!
 
 # 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yannickBona&margin-w=15&margin-h=15&theme=onedark&title=Commits,Repositories,PullRequest)
-
-### 📞 Contacts 
-_yannick.bonavoglia13@gmail.com_
